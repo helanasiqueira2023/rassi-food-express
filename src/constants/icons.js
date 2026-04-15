@@ -10,5 +10,10 @@ import favoritofull from "../assets/favorito-full2.png";
 import favorito from "../assets/favorito.png";
 import logo01 from "../assets/logo01.png";
 import logo02 from "../assets/logo02.png";
-
-export default { logo01, logo02, abahome, abafavorito, abapedidos, abaperfil, cart, favorito, favoritofull, dados, endereco, expandir };
+import logout from "../assets/logout.png";
+import mais from "../assets/mais.png";
+import menos from "../assets/menos.png";
+import banner4 from "../assets/banner4.png";
+import back from "../assets/back.png";
+import banner7 from "../assets/banner7.png";
+export default { logo01, logo02, abahome, abafavorito, abapedidos, abaperfil, cart, favorito, favoritofull, dados, endereco, expandir, logout, mais, menos, banner4, back, banner7 };
